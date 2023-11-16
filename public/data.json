@@ -1,0 +1,134 @@
+[
+    {
+        "id":"1",
+        "topic": "Health",
+        "title": "Clean water for children",
+        "details": "The Healthy Smiles Initiative aims to provide dental care kits to underprivileged children, ensuring they have the tools for better oral health. With your support, we can distribute toothbrushes, toothpaste, and educational materials to communities lacking access to proper dental hygiene resources. Let's make sure every child has a reason to smile!",
+        "image": "https://i.ibb.co/4Z5cKch/Health.png",
+        "donation_amount": 250, 
+        "color1": "#0052FF",
+        "color2": "#98cfff",
+        "color3": "#d9e5ff"
+    },
+    {
+        "id":"2",
+        "topic": "Education",
+        "title": "Good education",
+        "details": "The Books for Bright Minds project aims to provide books and educational materials to schools in need. Your donation helps create a nurturing learning environment, ensuring that children have access to essential resources that inspire curiosity and knowledge. Join us in fostering a love for learning among the next generation!",
+        "image": "https://i.ibb.co/Gvwr5sc/Education.png", 
+        "donation_amount": 250,
+        "color1": "#FF444A",
+        "color2": "#ffc3c5",
+        "color3": "#ffe3e4"
+    },
+    {
+        "id":"3",
+        "topic": "Clothing",
+        "title": "Warmth in Winter",
+        "details": "Warmth in Winter strives to provide winter clothing to homeless individuals during the cold season. Your support helps us distribute coats, blankets, and warm accessories to those in need, ensuring everyone has the protection they require during harsh weather conditions. Let's come together to spread warmth and compassion.",
+        "image": "https://i.ibb.co/1rLkfdT/Clothing.png",
+        "donation_amount": 250,
+        "color1": "#79C23F",
+        "color2": "#d4ecc1",
+        "color3": "#ebf6e2"
+    },
+    {
+        "id":"4",
+        "topic": "Food",
+        "title": "Nourish the Needy",
+        "details": "Nourish the Needy is committed to providing nutritious meals to homeless shelters and community kitchens. Your donation ensures that no one goes to bed hungry. Let's come together to support those in need and create a community where everyone has access to healthy and fulfilling meals.",
+        "image": "https://i.ibb.co/z8JptgJ/Food.png",
+        "donation_amount": 250,
+        "color1": "#F87147",
+        "color2": "#fdd2c4",
+        "color3": "#feeae3"
+    },
+    {
+        "id":"5",
+        "topic": "Food",
+        "title": "Nourish the Needy",
+        "details": "Nourish the Needy is committed to providing nutritious meals to homeless shelters and community kitchens. Your donation ensures that no one goes to bed hungry. Let's come together to support those in need and create a community where everyone has access to healthy and fulfilling meals.",
+        "image": "https://i.ibb.co/z8JptgJ/Food.png",
+        "donation_amount": 250,
+        "color1": "#F87147",
+        "color2": "#fdd2c4",
+        "color3": "#feeae3"
+    },
+    {
+        "id":"6",
+        "topic": "Clothing",
+        "title": "Warmth in Winter",
+        "details": "Warmth in Winter strives to provide winter clothing to homeless individuals during the cold season. Your support helps us distribute coats, blankets, and warm accessories to those in need, ensuring everyone has the protection they require during harsh weather conditions. Let's come together to spread warmth and compassion.",
+        "image": "https://i.ibb.co/1rLkfdT/Clothing.png",
+        "donation_amount": 250,
+        "color1": "#79C23F",
+        "color2": "#d4ecc1",
+        "color3": "#ebf6e2"
+    },
+    {
+        "id":"7",
+        "topic": "Health",
+        "title": "Clean water for children",
+        "details": "The Healthy Smiles Initiative aims to provide dental care kits to underprivileged children, ensuring they have the tools for better oral health. With your support, we can distribute toothbrushes, toothpaste, and educational materials to communities lacking access to proper dental hygiene resources. Let's make sure every child has a reason to smile!",
+        "image": "https://i.ibb.co/4Z5cKch/Health.png",
+        "donation_amount": 250,
+        "color1": "#0052FF",
+        "color2": "#98cfff",
+        "color3": "#d9e5ff"
+    },
+    {
+        "id":"8",
+        "topic": "Education",
+        "title": "Good education",
+        "details": "The Books for Bright Minds project aims to provide books and educational materials to schools in need. Your donation helps create a nurturing learning environment, ensuring that children have access to essential resources that inspire curiosity and knowledge. Join us in fostering a love for learning among the next generation!",
+        "image": "https://i.ibb.co/Gvwr5sc/Education.png",
+        "donation_amount": 250,
+        "color1": "#FF444A",
+        "color2": "#ffc3c5",
+        "color3": "#ffe3e4"
+    },
+    {
+        "id":"9",
+        "topic": "Health",
+        "title": "Clean water for children",
+        "details": "The Healthy Smiles Initiative aims to provide dental care kits to underprivileged children, ensuring they have the tools for better oral health. With your support, we can distribute toothbrushes, toothpaste, and educational materials to communities lacking access to proper dental hygiene resources. Let's make sure every child has a reason to smile!",
+        "image": "https://i.ibb.co/4Z5cKch/Health.png",
+        "donation_amount": 250,
+        "color1": "#0052FF",
+        "color2": "#98cfff",
+        "color3": "#d9e5ff"
+    },
+    {
+        "id":"10",
+        "topic": "Education",
+        "title": "Good education",
+        "details": "The Books for Bright Minds project aims to provide books and educational materials to schools in need. Your donation helps create a nurturing learning environment, ensuring that children have access to essential resources that inspire curiosity and knowledge. Join us in fostering a love for learning among the next generation!",
+        "image": "https://i.ibb.co/Gvwr5sc/Education.png",
+        "donation_amount": 250,
+        "color1": "#FF444A",
+        "color2": "#ffc3c5",
+        "color3": "#ffe3e4"
+    },
+    {
+        "id":"11",
+        "topic": "Clothing",
+        "title": "Warmth in Winter",
+        "details": "Warmth in Winter strives to provide winter clothing to homeless individuals during the cold season. Your support helps us distribute coats, blankets, and warm accessories to those in need, ensuring everyone has the protection they require during harsh weather conditions. Let's come together to spread warmth and compassion.",
+        "image": "https://i.ibb.co/1rLkfdT/Clothing.png",
+        "donation_amount": 250,
+        "color1": "#79C23F",
+        "color2": "#d4ecc1",
+        "color3": "#ebf6e2"
+    },
+    {
+        "id":"12",
+        "topic": "Food",
+        "title": "Nourish the Needy",
+        "details": "Nourish the Needy is committed to providing nutritious meals to homeless shelters and community kitchens. Your donation ensures that no one goes to bed hungry. Let's come together to support those in need and create a community where everyone has access to healthy and fulfilling meals.",
+        "image": "https://i.ibb.co/z8JptgJ/Food.png",
+        "donation_amount": 250,
+        "color1": "#F87147",
+        "color2": "#fdd2c4",
+        "color3": "#feeae3"
+    }
+]
